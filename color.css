@@ -12,7 +12,7 @@ html, body {
 
 body {
 
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -70,7 +70,7 @@ body {
 #main {
     /*box-shadow: 0 0 100px #000a;*/
     /*background-color: #fdf9f5;*/
-    padding: 0 25%;
+    padding: 0 20%;
 }
 
 #main>div {
